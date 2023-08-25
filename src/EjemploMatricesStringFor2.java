@@ -9,6 +9,6 @@ public class EjemploMatricesStringFor2 {
             }
             System.out.println();
         }
-        
+
     }
 }
